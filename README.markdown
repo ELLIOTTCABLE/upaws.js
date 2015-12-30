@@ -8,3 +8,8 @@ deviations from the original design, and silliness.
    `execution`
 
    [Node.js]: <http://nodejs.org/> "a platform built on Chrome's JavaScript runtime"
+
+Released for public usage under the terms of the [ISC license][]. (See [COPYING][].)
+
+   [ISC license]: <http://choosealicense.com/licenses/isc/> "Information about the ISC license"
+   [COPYING]: <./COPYING.text>
